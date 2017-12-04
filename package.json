@@ -14,6 +14,7 @@
     "lexer",
     "render"
   ],
+  "homepage": "https://jsfiddle.net/vikseriq/oxhcg8y1/",
   "repository": "https://github.com/vikseriq/browser-pug",
   "author": "Wiktor Serow <vikseriq@gmail.com>",
   "license": "MIT"
